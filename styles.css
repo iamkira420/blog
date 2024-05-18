@@ -1,3 +1,21 @@
 * {
-    margin: center;
+    display: center;
+}
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #171b1b;
+}
+
+body {
+    margin: 5% 10%;
+    padding: 0;
+    font-size: 18px;
+    background-color: cornsilk;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    gap: 3em;
 }
